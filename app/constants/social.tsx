@@ -1,0 +1,1 @@
+export const REACTIONS = ['LIKES', 'LOVES', 'HAHAS', 'WOWS', 'SADS', 'ANGRIES']
